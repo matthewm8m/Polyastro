@@ -1,4 +1,6 @@
 # Workflow defined by create issue branch.
+name: Create Issue Branch
+
 on:
     issues:
         types: [assigned]
